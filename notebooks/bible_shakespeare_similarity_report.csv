@@ -1,0 +1,57 @@
+Bible Verse,Shakespeare Sentence,Embedding Similarity,TF-IDF Similarity,Jaccard Similarity,N-Gram Overlap,Levenshtein Similarity
+Thou shalt not steal.~,“Thou shalt not steal”?,0.92331326,1.0,0.33333334,0.0,0.8888889
+And he wrote a letter after this manner:~,"Look, here’s a letter from him.",0.8985709,0.09349477,0.16666667,0.0,0.5833333
+"Hear my prayer, O God; give ear to the words of my mouth.~","My lord, I pray you, hear me.",0.8959283,0.19976382,0.11764706,0.0,0.16091955
+"I am one that bear witness of myself, and the Father that sent me beareth witness of me.~",This is a witness that I am thy son.,0.8837818,0.23765056,0.2,0.0,0.384
+"Hear my prayer, O God; give ear to the words of my mouth.~","I pray you, let-a me speak a word with your ear.",0.88193315,0.04723062,0.0,0.0,0.4528302
+"Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.~","My lord, I pray you, hear me.",0.8800851,0.27836126,0.15,0.0,0.1
+"Hear my prayer, O LORD, and let my cry come unto thee.~","My lord, I pray you, hear me.",0.87957394,0.30067655,0.2,0.0,0.16666667
+"Hear my prayer, O God; give ear to the words of my mouth.~",Pray hear me.,0.8785628,0.08701235,0.071428575,0.0,0.1971831
+"Give ear, O LORD, unto my prayer; and attend to the voice of my supplications.~","My lord, I pray you, hear me.",0.87819195,0.18441063,0.10526316,0.0,0.2962963
+"Lord, hear my voice: let thine ears be attentive to the voice of my supplications.~","My lord, I pray you, hear me.",0.87768596,0.23787221,0.16666667,0.0,0.23214285
+"Comfort ye, comfort ye my people, saith your God.~",God comfort thee!,0.87321496,0.32989454,0.1,0.0,0.35820895
+"Seek ye the LORD while he may be found, call ye upon him while he is near:~","Seek him, bid him come hither.",0.8725537,0.13763729,0.11111111,0.0,0.4
+"I am as one mocked of his neighbour, who calleth upon God, and he answereth him: the just upright man is laughed to scorn.~","O, I am mock’d,
+And thou by some incensed god sent hither
+To make the world to laugh at me.",0.8725128,0.16732733,0.13157895,0.0,0.3364486
+"But if we hope for that we see not, then do we with patience wait for it.~",We must be patient.,0.8710628,0.17889108,0.05882353,0.0,0.2795699
+"Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer.~",Or a conjurer.,0.86872005,0.424605,0.2,0.0,0.26804122
+"Wherefore I beseech you, be ye followers of me.~","I beseech you, follow.",0.86782783,0.2695176,0.3,0.125,0.62857145
+"He that hath ears to hear, let him hear.~",let us hear him.,0.8673841,0.4500589,0.083333336,0.0,0.49122807
+"I have sworn, and I will perform it, that I will keep thy righteous judgments.~",This oath I willingly take and will perform.,0.86736566,0.2594571,0.1764706,0.0,0.35772356
+"And it shall be, when he shall be guilty in one of these things, that he shall confess that he hath sinned in that thing:~",He hath confess’d.,0.8671494,0.31857094,0.10526316,0.0,0.21428572
+Hear; for I will speak of excellent things; and the opening of my lips shall be right things.~,"Hear me, for I will speak.",0.86636627,0.26692966,0.15,0.05263158,0.36666667
+"Fearfulness and trembling are come upon me, and horror hath overwhelmed me.~",Fear comes upon me.,0.86516017,0.23787566,0.071428575,0.0,0.37894738
+"I have sworn, and I will perform it, that I will keep thy righteous judgments.~",I have sworn to do it.,0.8642387,0.22882731,0.125,0.0,0.37623763
+"Hear my prayer, O God; give ear to the words of my mouth.~",I pray thee hear me speak.,0.86399466,0.064891115,0.05882353,0.0,0.23809524
+"Who hath ears to hear, let him hear.~",let us hear him.,0.86360455,0.4809731,0.09090909,0.0,0.4528302
+"Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you.~","I am bound to call upon you, and I pray you
+your name?",0.8632503,0.26111972,0.23809524,0.0,0.4
+"And the LORD said, I have pardoned according to thy word:~","I pardon him, as God shall pardon me.",0.86242247,0.0,0.05882353,0.0,0.31578946
+"Hear diligently my speech, and my declaration with your ears.~","I prithee, hear me speak.",0.86135364,0.07970251,0.07692308,0.0,0.25287357
+Thou shalt not kill.~,Thou shalt not do’t.,0.8608504,0.60297483,0.6,0.33333334,0.7804878
+Thou shalt not kill.~,Thou shalt not do’t.,0.8608504,0.60297483,0.6,0.33333334,0.7804878
+"Him therefore I hope to send presently, so soon as I shall see how it will go with me.~",I will send him hither to you presently.,0.8607171,0.31194013,0.23809524,0.0,0.28346458
+I have heard of thee by the hearing of the ear: but now mine eye seeth thee.~,"These ears of mine, thou know’st, did hear thee.",0.860307,0.20697942,0.04347826,0.0,0.208
+"That day is a day of wrath, a day of trouble and distress, a day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick darkness,~","Accurs’d, unhappy, wretched, hateful day.",0.8597084,0.1672148,0.0,0.0,0.068292685
+"He that hath ears to hear, let him hear.~",Lend thine ear.,0.8596017,0.0,0.0,0.0,0.32142857
+Then was the part of the hand sent from him; and this writing was written.~,Had he a hand to write this?,0.8594092,0.10655561,0.05263158,0.0,0.33009708
+Thou shalt be perfect with the LORD thy God.~,Thou art perfect.,0.8593097,0.2521387,0.09090909,0.0,0.516129
+"And there appeared an angel unto him from heaven, strengthening him.~","But near him, thy angel
+Becomes afeard, as being o’erpowered.",0.8581448,0.15589042,0.05,0.0,0.36923078
+"And when the king entered into the house of the LORD, the guard came and fetched them, and brought them again into the guard chamber.~",Enter King and Guard.,0.8577597,0.2704306,0.10526316,0.0,0.23225807
+"Lord, hear my voice: let thine ears be attentive to the voice of my supplications.~","I pray you, let-a me speak a word with your ear.",0.857712,0.04034891,0.0,0.0,0.259542
+And the thing pleased the king and all the congregation.~,It was the pleasure of my lord the King.,0.8575872,0.3356914,0.071428575,0.0,0.20618556
+"That thou mayest regard discretion, and that thy lips may keep knowledge.~",Therefore use thy discretion.,0.8574267,0.16171378,0.071428575,0.0,0.34951457
+"For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof.~","Ay, now begins a second storm to rise,
+For this is he that moves both wind and tide.",0.8567946,0.13949604,0.10714286,0.0,0.2857143
+"The LORD make his face shine upon thee, and be gracious unto thee:~","Now,
+the Lord bless that sweet face of thine!",0.8565985,0.15064019,0.15789473,0.0,0.30357143
+"I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, and hear my speech.~",I pray thee hear me speak.,0.85620314,0.31325087,0.08695652,0.0,0.328125
+"Who hath ears to hear, let him hear.~",Lend thine ear.,0.85588545,0.0,0.0,0.0,0.30769232
+"O LORD, thou hast seen my wrong: judge thou my cause.~","How much thou wrong’st me, heaven be my judge.",0.85585207,0.35617766,0.125,0.0,0.38
+"For I have given you an example, that ye should do as I have done to you.~",I’ll make thee an example.,0.8558274,0.11909571,0.05263158,0.0,0.34
+Neither shalt thou steal.~,“Thou shalt not steal”?,0.8558157,0.60297483,0.14285715,0.0,0.6122449
+"Thou hast known my reproach, and my shame, and my dishonour: mine adversaries are all before thee.~","’Tis thou, and those, that have dishonoured me.",0.85579234,0.12082386,0.04761905,0.0,0.41095892
+"I love the LORD, because he hath heard my voice and my supplications.~","Ay, I praise God; and I have merited some love at his hands.",0.85578156,0.08870307,0.14285715,0.0,0.26153848
+And he wrote a letter after this manner:~,Has here writ a letter to you.,0.8557799,0.08457986,0.15384616,0.0,0.53521127
